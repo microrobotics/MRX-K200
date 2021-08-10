@@ -1,3 +1,4 @@
 # MRX-K200
 
-![R307_K200_Control_Board](https://user-images.githubusercontent.com/4562957/128851660-1a7fb4e1-4ab8-4245-bd47-7296487fdc4e.jpg)
+![R307_K200_Control_Board](https://user-images.githubusercontent.com/4562957/128851732-5c84c8a5-d8ea-49b8-be52-2788689beefc.jpg)
+
